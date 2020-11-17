@@ -1,2 +1,3 @@
 # Data-science-to-find-a-centre-half-to-replace-thiago-silva-at-chelsea
 A data science project to find a replacement for thiago silva at chelsea
+Data in football •	Chelsea need a cb to replace Thiago silva •	Using data I intend to identify a top target below the age of 27 •	Will use 5 main criteria  1.	Comfertability on the ball – how many times in a game said player receives the ball, compared to houw many times they give it away. We want the player to revieve the ball very often and rarely give it away 2.	Ability in the air – if they go up for a duel, do they win it? 3.	Ability on the floor – if they go in for a tackle how likely are they to win? 4.	How easy are they to go past? 5.	Clean sheets gained
